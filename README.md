@@ -114,4 +114,4 @@ yourdomain.com/webhook/twilio/video
 
 ### License
 
-laravel-twilio is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+laravel-twilio is open-sourced software licensed under the [MIT license](http://opliberuurce.org/licenses/MIT)
